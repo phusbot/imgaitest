@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2024-11-01",
   "main": "src/index.ts",
-  "name": "patient-water-d3f2",
+  "name": "img",
   "upload_source_maps": true,
   "ai": {
     "binding": "AI"
